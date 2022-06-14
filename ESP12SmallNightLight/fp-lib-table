@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SN74AHCT125N")(type "KiCad")(uri "${KIPRJMOD}/SN74AHCT125N.pretty")(options "")(descr ""))
+  (lib (name "HLK5M05")(type "KiCad")(uri "${KIPRJMOD}/HLK5M05.pretty")(options "")(descr ""))
+)

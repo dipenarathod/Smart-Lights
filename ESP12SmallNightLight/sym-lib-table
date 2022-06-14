@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SN74AHCT125N")(type "Legacy")(uri "${KIPRJMOD}/SN74AHCT125N.lib")(options "")(descr ""))
+  (lib (name "HLK-5M05")(type "Legacy")(uri "${KIPRJMOD}/HLK-5M05.lib")(options "")(descr ""))
+)

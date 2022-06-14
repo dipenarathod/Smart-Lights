@@ -1,0 +1,5 @@
+If no modifications are to be done, the gerber files are there.
+
+Assembly:
+Parts required are labeled in the schematics.
+Flash WLED to ESP12 before soldering.
